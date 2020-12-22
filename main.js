@@ -22,16 +22,16 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "We wish you Merry Xmas 2020",
-    artist: "James John",
-    image: "https://5gtech.github.io/angel.jpg",
-    path: "https://5gtech.github.io/We_wish_you_Merry_Xmas_2020.mp3"
-  },
-  {
     name: "Snowflake",
     artist: "Randy Ingermanson's",
     image: "http://merryxmas.online/wp-content/uploads/2020/12/4.jpg",
     path: "http://merryxmas.online/wp-content/uploads/2020/12/Snowflake.mp3",
+  },
+  {
+    name: "We wish you Merry Xmas 2020",
+    artist: "James John",
+    image: "https://5gtech.github.io/angel.jpg",
+    path: "https://5gtech.github.io/We_wish_you_Merry_Xmas_2020.mp3"
   },
   {
     name: "Snowflakes - Winter & Christmas Swing Music",
